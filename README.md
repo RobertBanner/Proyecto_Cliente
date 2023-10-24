@@ -1,7 +1,7 @@
 # Proyecto_Cliente
 **Proyecto Cliente API**
 
-***DB*****
+***DB***
 
 - Tabla creada en SQLite, llamada "**ClientSqlite**". Va la copia de la misma con algunos registros de prueba y sino está se crea uno desde cero.
 
